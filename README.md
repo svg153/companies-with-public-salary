@@ -38,6 +38,7 @@ List of companies
 | Bequant | <https://es.bequant.com/careers>  |
 | Newtral | <https://www.linkedin.com/company/newtral_media/jobs/> |
 | Guruwalk| <https://www.linkedin.com/company/guruwalk/jobs/> |
+| Docplanner Tech | <https://www.docplanner.com/career> |
 
 Motivation
 ----------
