@@ -6,61 +6,38 @@ List of companies
 
 *If you find any broken links, you can reach us or propose a change.
 
--   EdPuzzle | <https://jobs.lever.co/edpuzzle/f6a2d408-a156-4d6e-950f-43717b6acc68>
-
--   Keepler | <https://www.linkedin.com/company/keepler/jobs/>
-
--   Tinybird | <https://www.tinybird.co/about#join-us>
-
--   Whereby | <https://jobs.lever.co/whereby>
-
--   Marketgoo | <https://apply.workable.com/marketgoo/>
-
--   Tymit | <https://apply.workable.com/tymit/>
-
--   Mercadona Tech | <http://www.mercadonatech.es/es/>
-
--   RevenueCat | <https://boards.greenhouse.io/revenuecat>
-
--   MarsBased | <https://marsbased.com/jobs/>
-
--   Cabify | <https://cabify.careers/es/>
-
--   Factorial/ Itnig | <https://itnig.net/jobs/>
-
--   Stickermule | <https://www.stickermule.com/careers>
-
--   Aplanet | <https://aplanet.org/careers/>
-
--   Chorus | <https://chorus.one/careers#jointeam>
-
--   Sector Labs | <https://www.sectorlabs.ro/senior-full-stack-engineer-remote>
-
--   ConverKit | <https://job-boards.greenhouse.io/convertkit/jobs/4522329007>
-
--   Brainly | <https://careers.brainly.com/open-positions/>
-
--   HubStaff | <https://hubstaff.com/jobs>
-
--   Learnerbly | <https://learnerbly.bamboohr.com/careers>
-
--   Mimo | <https://getmimo.com/about-us#jobs-section>
-
--   TaxDown | <https://taxdown.es/career-list/>
-
--   Graphext | <https://www.graphext.com/careers>
-
--   Haddock | <https://jobs.haddock.app/>
-
--   Secfix | <https://jobs.ashbyhq.com/secfix?utm_source=secfixlandingpage>
-
--   Docker | <https://www.docker.com/career-openings/>
-
--   Landbot | <https://jobs.landbot.io/>
-
--   Coches.com | <https://www.coches.com/trabaja-con-nosotros/>
-
--   Bequant | <https://es.bequant.com/careers>
+| Empresa     | URL         |
+| ----------- | ----------- |
+| EdPuzzle      | <https://jobs.lever.co/edpuzzle/f6a2d408-a156-4d6e-950f-43717b6acc68>     |
+| Keepler   | <https://www.linkedin.com/company/keepler/jobs/>        |
+| Tinybird   | <https://www.tinybird.co/about#join-us> |
+| Whereby | <https://jobs.lever.co/whereby> |
+| Marketgoo | <https://apply.workable.com/marketgoo/>  |
+| Tymit | <https://apply.workable.com/tymit/> |
+| Mercadona Tech | <http://www.mercadonatech.es/es/> |
+| RevenueCat | <https://boards.greenhouse.io/revenuecat> |
+| MarsBased | <https://marsbased.com/jobs/> |
+| Cabify | <https://cabify.careers/es/> |
+| Factorial/ Itnig | <https://itnig.net/jobs/> |
+| Stickermule | <https://www.stickermule.com/careers> |
+| Aplanet | <https://aplanet.org/careers/> |
+| Chorus | <https://chorus.one/careers#jointeam> |
+| Sector Labs | <https://www.sectorlabs.ro/senior-full-stack-engineer-remote> |
+| ConverKit | <https://job-boards.greenhouse.io/convertkit/jobs/4522329007> |
+| Brainly | <https://careers.brainly.com/open-positions/> |
+| HubStaff | <https://hubstaff.com/jobs> |
+| Learnerbly | <https://learnerbly.bamboohr.com/careers> |
+| Mimo | <https://getmimo.com/about-us#jobs-section> |
+| TaxDown | <https://taxdown.es/career-list/> |
+| Graphext | <https://www.graphext.com/careers> |
+| Haddock | <https://jobs.haddock.app/> |
+| Secfix | <https://jobs.ashbyhq.com/secfix?utm_source=secfixlandingpage> |
+| Docker | <https://www.docker.com/career-openings/> |
+| Landbot | <https://jobs.landbot.io/> |
+| Coches.com | <https://www.coches.com/trabaja-con-nosotros/> |
+| Bequant | <https://es.bequant.com/careers>  |
+| Newtral | <https://www.linkedin.com/company/newtral_media/jobs/> |
+| Guruwalk| <https://www.linkedin.com/company/guruwalk/jobs/> |
 
 Motivation
 ----------
@@ -82,12 +59,6 @@ If you just want to propose a company with public salaries, you [can fill this T
 
 Our teammates will then review changes and, if it makes sense, we will merge your changes into the master repository and we will credit you. Thanks in advance for your collaboration!
 
-Change Log
-----------
-
--   0.1 First companies draft
-
--   0.2 Public repo adding some companies
 
 Credits and Acknowledgements
 ----------------------------
