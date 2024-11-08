@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spanish Tech Companies with Public Salary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Spanish Tech Companies with Public Salary</h1>
+    </header>
+    <main>
+        <section>
+            <h2>List of Companies</h2>
+            <table id="companies-table">
+                <thead>
+                    <tr>
+                        <th>Empresa</th>
+                        <th>URL</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Companies will be rendered here by script.js -->
+                </tbody>
+            </table>
+        </section>
+        <section>
+            <h2>Add a New Company</h2>
+            <form id="add-company-form">
+                <label for="company-name">Company Name:</label>
+                <input type="text" id="company-name" name="company-name" required>
+                <label for="company-url">Company URL:</label>
+                <input type="url" id="company-url" name="company-url" required>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p><a href="https://github.com/getmanfred/companies-with-public-salary">GitHub Repository</a></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

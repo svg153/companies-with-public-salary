@@ -1,6 +1,8 @@
 # Spanish Tech Companies with Public Salary | Spain & Remote friendly
 List of Spanish Tech companies with public salary in their job offers.
 
+[View the web page](https://getmanfred.github.io/companies-with-public-salary/)
+
 List of companies
 -----------------
 
@@ -56,7 +58,7 @@ How to propose a company
 
 Please feel free to go ahead and fork the repository and create your own version. Later, if you have introduced changes that could improve the docs for general use, [create a pull request from your fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
-If you just want to propose a company with public salaries, you [can fill this Typeform](https://getmanfred.typeform.com/to/VS6UnBys) and we will review your proposal.
+If you just want to propose a company with public salaries, you can use the [new company form](https://getmanfred.github.io/companies-with-public-salary/) and we will review your proposal.
 
 Our teammates will then review changes and, if it makes sense, we will merge your changes into the master repository and we will credit you. Thanks in advance for your collaboration!
 

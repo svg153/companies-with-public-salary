@@ -1,0 +1,25 @@
+name: Add New Company
+
+on:
+  issues:
+    types: [opened]
+    labels: ['new-company']
+
+jobs:
+  create-pull-request:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: Add new company from issue
+        title: Add new company from issue
+        body: |
+          This pull request adds a new company to the list based on the details provided in the issue.
+        branch: add-new-company-${{ github.event.issue.number }}
+        labels: ['new-company']

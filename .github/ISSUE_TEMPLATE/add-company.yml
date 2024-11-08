@@ -1,0 +1,19 @@
+name: Add New Company
+description: Use this template to propose a new company to be added to the list.
+title: "New Company: [Company Name]"
+labels: ['new-company']
+body:
+  - type: input
+    id: company-name
+    attributes:
+      label: Company Name
+      description: Name of the company you want to add
+      placeholder: "e.g., Example Corp"
+      required: true
+  - type: input
+    id: company-url
+    attributes:
+      label: Company URL
+      description: URL of the company's job page
+      placeholder: "e.g., https://example.com/jobs"
+      required: true
